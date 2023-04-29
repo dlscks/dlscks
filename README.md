@@ -37,6 +37,13 @@
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
+<div align=center>
+<br>
+<h1>⭐️ Github-Stats ⭐️</h1>
+<img src="https://github-readme-stats.vercel.app/api?username=dlscks&show_icons=true&theme=merko">
+<br>
+<br>
+</div>
 
 <!--
 **dlscks/dlscks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
