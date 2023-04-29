@@ -1,6 +1,6 @@
 <!-- header -->
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=FFF8DC&height=300&section=header&text=CHOIINCHAN&fontSize=90&fontColor=A9A9A9&animation=fadeIn" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=300&section=header&text=CHOIINCHAN&fontSize=90&fontColor=A9A9A9&animation=fadeIn" />	
 </div>
 <br>
 
