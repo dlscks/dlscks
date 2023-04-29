@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder)
+<!-- header -->
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=CHOIINCHAN&fontSize=90&fontColor=f7f5f5&animation=fadeIn" />	
+</div>
+<br>
 
 <!--
 **dlscks/dlscks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
