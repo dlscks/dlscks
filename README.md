@@ -45,6 +45,8 @@
 <br>
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlscks&layout=compact"><br><br>
+
 <!--
 **dlscks/dlscks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
